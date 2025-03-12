@@ -1,7 +1,5 @@
 # RealTime-Twitter-Sentimental-Analysis
 
-# Twitter Sentiment Analysis
-
 ## Project Overview
 This project performs **Twitter Sentiment Analysis** by collecting real-time tweets using the Twitter API, processing the data, and applying various Machine Learning classifiers to classify sentiment as positive, negative, or neutral.
 
